@@ -4,6 +4,8 @@ Name: Adil Shaikh
 Domain: Python Programming
 
 # OUTPUT OF THIS CODE
+![Screenshot 2025-05-16 155926](https://github.com/user-attachments/assets/e7b1aff3-683c-41d4-abf5-a412fc996250)
+
 # PROJECT: EXPENSE-TRACKER
 
 
